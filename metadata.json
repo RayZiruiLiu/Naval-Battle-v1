@@ -1,0 +1,6 @@
+{
+  "name": "Naval Architect: Ship Battles",
+  "description": "Customize naval warships with modular weapons, cannons, and tactical components, then command your fleet in dynamic water battles against varied NPC ships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
